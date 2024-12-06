@@ -68,7 +68,6 @@ nav {
   flex: 1;
   /* background-color: wheat; */
   background-image: url("../img/pink.png");
-  position:sticky;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
